@@ -10,7 +10,7 @@ It is a Java program that calculates a user's Total Daily Energy Expenditure (TD
 - Uses formulas to calculate TDEE accurately.
 - Displays the user's TDEE clearly for daily caloric needs.
 
-## Skills Demonstrated 
+## Skills 
 - Collecting and parsing user input in Java.
 - Performing arithmetic calculations and unit conversions.
 - Implementing conditional statements to handle activity level differences.
